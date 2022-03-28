@@ -5,7 +5,7 @@ The project is a single page website.
 * HTML
 * CSS
 
-Портфолио
+# Портфолио
 Проект представляет собой одностраничный сайт.
 
 ## Стек
